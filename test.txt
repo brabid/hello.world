@@ -1,1 +1,1 @@
-echo "This damn thing better work"
+echo "This damn thing better work" >> thistest.txt
